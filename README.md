@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mratikullahwd
 - 👀 I’m interested in Server Development, and Website Development
 - 🌱 I’m currently learning React Js
-- 💞️ I'm in love with my tiny company, Name : NexusNodest
+- 💞️ I'm in love with my tiny company, Name : NexusNodes
 - 📫 How to reach me ?
 - 💌 My email : atikullahwd2@gmail.com
 - 🤙 +8801726708442
