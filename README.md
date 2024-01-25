@@ -1,6 +1,6 @@
 ## Hi there my gorgeous friend
 
-I'm Atikullah WD, a Full Stack Web Application Developer from Bangladesh and Content Creator on I Spend most of time coding outstanding projects or recording tutorials.
+I'm Atikullah WD, a Full Stack Web Application Developer from Bangladesh.
 
 :coffee: &emsp;Connect with me!
 
